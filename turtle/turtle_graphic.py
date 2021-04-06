@@ -5,7 +5,7 @@ reset()
 hideturtle()
 speed(0)
 
-fillcolor('black')
+fillcolor('green')
 begin_fill()
 
 penup()  # A 그리기 (전체 레이아웃 조정을 위해 x좌표 값에 300씩 감소시켜 주었습니다.)
