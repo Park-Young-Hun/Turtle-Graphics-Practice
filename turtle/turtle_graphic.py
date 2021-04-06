@@ -72,7 +72,7 @@ end_fill()
 
 penup()  # V 그리기
 
-fillcolor('black')
+fillcolor('yellow')
 begin_fill()
 goto(124-300, -145)
 
