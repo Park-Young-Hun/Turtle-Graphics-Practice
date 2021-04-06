@@ -6,7 +6,7 @@ hideturtle()
 speed(0)
 
 
-fillcolor('red')
+fillcolor('black')
 begin_fill()
 
 penup()  # A 그리기 (전체 레이아웃 조정을 위해 x좌표 값에 300씩 감소시켜 주었습니다.)
@@ -73,7 +73,7 @@ end_fill()
 
 penup()  # V 그리기
 
-fillcolor('yellow')
+fillcolor('black')
 begin_fill()
 goto(124-300, -145)
 
